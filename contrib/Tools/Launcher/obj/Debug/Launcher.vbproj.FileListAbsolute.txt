@@ -1,0 +1,32 @@
+C:\Git\Wrath of the Lich King\Launcher\Launcher\bin\Debug\Launcher.exe.config
+C:\Git\Wrath of the Lich King\Launcher\Launcher\obj\Debug\Interop.WMPLib.dll
+C:\Git\Wrath of the Lich King\Launcher\Launcher\obj\Debug\AxInterop.WMPLib.dll
+C:\Git\Wrath of the Lich King\Launcher\Launcher\obj\Debug\Launcher.vbproj.ResolveComReference.cache
+C:\Git\Wrath of the Lich King\Launcher\Launcher\bin\Debug\Launcher.exe
+C:\Git\Wrath of the Lich King\Launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Git\Wrath of the Lich King\Launcher\Launcher\bin\Debug\Launcher.xml
+C:\Git\Wrath of the Lich King\Launcher\Launcher\bin\Debug\Interop.WMPLib.dll
+C:\Git\Wrath of the Lich King\Launcher\Launcher\bin\Debug\AxInterop.WMPLib.dll
+C:\Git\Wrath of the Lich King\Launcher\Launcher\obj\Debug\Launcher.Dialog1.resources
+C:\Git\Wrath of the Lich King\Launcher\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Git\Wrath of the Lich King\Launcher\Launcher\obj\Debug\Launcher.Resources.resources
+C:\Git\Wrath of the Lich King\Launcher\Launcher\obj\Debug\Launcher.vbproj.GenerateResource.Cache
+C:\Git\Wrath of the Lich King\Launcher\Launcher\obj\Debug\Launcher.exe
+C:\Git\Wrath of the Lich King\Launcher\Launcher\obj\Debug\Launcher.xml
+C:\Git\Wrath of the Lich King\Launcher\Launcher\obj\Debug\Launcher.pdb
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\obj\Debug\Interop.WMPLib.dll
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\obj\Debug\Launcher.vbproj.ResolveComReference.cache
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\obj\Debug\Launcher.exe
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\obj\Debug\Launcher.pdb
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\bin\Debug\Launcher.exe
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\bin\Debug\Launcher.xml
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\bin\Debug\Interop.WMPLib.dll
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\obj\Debug\Launcher.Dialog1.resources
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\obj\Debug\Launcher.Resources.resources
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\obj\Debug\Launcher.vbproj.GenerateResource.Cache
+C:\Users\YggDraz1l\Documents\Visual Studio 2013\Projects\WotLK Launcher\Launcher\obj\Debug\Launcher.xml
