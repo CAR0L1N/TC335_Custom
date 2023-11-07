@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AutoLogin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="IntFLDR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GLUES
+GlueXML
+LoginMusic
+LoginScreen</Value>
+    </Setting>
+    <Setting Name="SVR" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="WindowModeOn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SET gxWindow "1"</Value>
+    </Setting>
+    <Setting Name="WindowModeOff" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SET gxWindow "0"</Value>
+    </Setting>
+    <Setting Name="s1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"</Value>
+    </Setting>
+    <Setting Name="port_World" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8085</Value>
+    </Setting>
+    <Setting Name="port_Realm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3724</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
